@@ -9,3 +9,4 @@ Step 3: Enter the directory to resume_parser
 cd resume_parser
 Step 4:Start the project using command
 python manage.py runserver
+
